@@ -1,0 +1,5 @@
+Which drink is profer to hamburger?
+  1. coffee
+  2. milk
+  3. water
+  --- except coke.
